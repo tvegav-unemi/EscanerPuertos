@@ -1,0 +1,6 @@
+# Archivos temporales de PyInstaller
+build/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
